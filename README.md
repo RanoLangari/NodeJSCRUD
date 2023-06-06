@@ -1,6 +1,6 @@
 # NodeJSCRUD
 
-### 'npm install'
+### `npm install`
 make sure you run 'npm install' before 'npm run start' to install dependecies
 
 
